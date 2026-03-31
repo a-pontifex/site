@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My New Hugo Project</title><link>http://localhost:1313/</link><description>Recent content on My New Hugo Project</description><generator>Hugo</generator><language>en-us</language><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Horace Leung</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Horace Leung</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 31 Mar 2026 19:48:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fragj</title>
+      <link>http://localhost:1313/posts/fragj/</link>
+      <pubDate>Tue, 31 Mar 2026 19:48:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/fragj/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Introduction</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Tue, 31 Mar 2026 18:59:13 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h1 id=&#34;khâgne-classique-lycée-condorcet&#34;&gt;Khâgne classique Lycée Condorcet&lt;a class=&#34;anchor&#34; href=&#34;#kh%c3%a2gne-classique-lyc%c3%a9e-condorcet&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 31 Mar 2026 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;intro&#34;&gt;Intro&lt;a class=&#34;anchor&#34; href=&#34;#intro&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Khâgneux&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
