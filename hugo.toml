@@ -1,7 +1,7 @@
 baseURL = 'https://pontifex.shn.hk/'
 languageCode = 'fr-FR'
 title = 'Horace Leung'
-theme = 'ananke'
+theme = 'hugo-main'
 
 [caches]
   [caches.images]
