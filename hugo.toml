@@ -1,6 +1,6 @@
 baseURL = 'https://pontifex.shn.hk/'
-languageCode = 'en-us'
-title = 'My New Hugo Project'
+languageCode = 'fr-FR'
+title = 'Horace Leung'
 theme = 'ananke'
 
 [caches]
