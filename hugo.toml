@@ -1,0 +1,8 @@
+baseURL = 'https://pontifex.shn.hk/'
+languageCode = 'en-us'
+title = 'My New Hugo Project'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
